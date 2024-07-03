@@ -1,0 +1,7 @@
+jobs:
+  jobConfigs:
+    - name: J1
+      input:
+        file:
+          path: "data"
+          name: "customers.csv"
